@@ -45,3 +45,9 @@
 - `undraw_judge_hyqv (1).svg` → `undraw_judge.svg` にリネーム（命名規約準拠）
 - `undraw_legal-counsel_kdnh.svg` → `undraw_legal-counsel.svg` にリネーム（命名規約準拠）
 
+
+## [1.2.4] - 2026-05-29
+
+### Fixed
+- ルートに残存していた `Lite概要修正版.srt` の最終削除（v1.2.3 で削除漏れ）
+
