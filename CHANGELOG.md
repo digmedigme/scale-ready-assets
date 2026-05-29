@@ -37,3 +37,11 @@
 ### Fixed
 - `captions/lite/caption_lite_v1.0.0_ep01-overview_ja.srt` を正しいパス・命名規約に修正（v1.2.0/v1.2.1 で漏れていた）
 
+
+## [1.2.3] - 2026-05-29
+
+### Fixed
+- ルートに残っていた `Lite概要修正版.srt` の重複コピーを削除
+- `undraw_judge_hyqv (1).svg` → `undraw_judge.svg` にリネーム（命名規約準拠）
+- `undraw_legal-counsel_kdnh.svg` → `undraw_legal-counsel.svg` にリネーム（命名規約準拠）
+
