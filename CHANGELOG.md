@@ -31,3 +31,9 @@
 - `keyvisuals/lite/keyvisual_lite_v1.0.0_excel-graduation.png` を正しいパス・命名規約に修正
 - `captions/lite/caption_lite_v1.0.0_ep01-overview_ja.srt` を正しいパス・命名規約に修正
 
+
+## [1.2.2] - 2026-05-29
+
+### Fixed
+- `captions/lite/caption_lite_v1.0.0_ep01-overview_ja.srt` を正しいパス・命名規約に修正（v1.2.0/v1.2.1 で漏れていた）
+
