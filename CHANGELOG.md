@@ -24,3 +24,10 @@
 
 ### Added
 - `illustrations/lite/` — Lite 版イラスト初版
+
+## [1.2.1] - 2026-05-29
+
+### Fixed
+- `keyvisuals/lite/keyvisual_lite_v1.0.0_excel-graduation.png` を正しいパス・命名規約に修正
+- `captions/lite/caption_lite_v1.0.0_ep01-overview_ja.srt` を正しいパス・命名規約に修正
+
