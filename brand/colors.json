@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.2.0",
+  "primary": {
+    "purple": "#7C5CBF",
+    "purple_light": "#9D88D9",
+    "teal": "#0F94B4"
+  },
+  "neutral": {
+    "gray_900": "#1F2937",
+    "gray_700": "#374151",
+    "gray_500": "#6B7280",
+    "gray_400": "#9CA3AF",
+    "gray_200": "#E5E7EB",
+    "gray_50": "#FAFAFA",
+    "white": "#FFFFFF"
+  },
+  "accent": {
+    "pink": "#ff6584"
+  }
+}
