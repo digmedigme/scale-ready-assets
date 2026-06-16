@@ -1,4 +1,4 @@
-﻿# Scale-Ready CRM Assets
+# Scale-Ready CRM Assets
 
 Notion テンプレート **Scale-Ready CRM**（Lite / Standard / Pro）配布用のアセットリポジトリ。
 jsDelivr CDN 経由でテンプレ内に直接埋め込んで使用します。
@@ -22,6 +22,10 @@ jsDelivr CDN 経由でテンプレ内に直接埋め込んで使用します。
 | `illustrations/{tier}/` | undraw 系イラスト（SVG） |
 | `icons/lucide/` | Lucide ベースのアイコン |
 | `brand/` | カラー・タイポ・Brand Guide |
+| `note-covers/{scope}/` | コラム・note 記事カバー（PNG, note 1280x670 / 汎用 1500px幅） |
+| `og/{scope}/` | OGP・SNS シェア画像（PNG 1200x630） |
+
+`{scope}` は配信チャネル / 用途（`note` / `column` / `og` 等）。
 
 ## 命名規約（Brand Guide §11.1）
 
@@ -34,6 +38,21 @@ jsDelivr CDN 経由でテンプレ内に直接埋め込んで使用します。
 - `keyvisual_lite_v1.0.0_excel-graduation.png`
 - `caption_lite_v1.0.0_ep01-overview_ja.srt`
 - `thumbnail_lite_v1.0.0_ep01-overview.png`
+
+### 記事カバー（製品アセット以外）
+
+コラム・note 記事・OGP など製品ティアに紐づかないアセットは、`{tier}` を `{scope}`（配信チャネル / 用途）に読み替える：
+
+    {asset-type}_{scope}_{semver}_{descriptor}.{ext}
+
+例：
+
+- `notecover_note_v1.0.0_crm-failure-patterns.png`
+- `ogimage_og_v1.0.0_crm-failure-patterns.png`
+
+- `descriptor` は記事管理 DB の `slug` と**完全一致**させる（記事↔画像の追跡性確保）
+- サイズはファイル名に含めず、カテゴリ（フォルダ）単位で規定する
+- 連番・自動命名（`star1.svg` 等）は §11.1 違反として是正対象
 
 ## バージョニング
 

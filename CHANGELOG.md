@@ -1,6 +1,13 @@
-﻿# Changelog
+# Changelog
 
 このリポジトリのリリース履歴。Brand Guide §11.4 の Semver に従います。
+
+## [v1.4.0] - 2026-06-17
+
+### Added
+- `note-covers/note/`, `note-covers/column/` — コラム / note 記事カバー原本のカテゴリを新設
+- `og/note/` — OGP 画像カテゴリを新設
+- 命名規約に `{scope}` 一般化ルール（記事カバー用 `{asset-type}_{scope}_{semver}_{descriptor}`）を追加（README / Brand Guide §11.1）
 
 ## [v1.2.0] - 2026-05-29
 
@@ -50,4 +57,3 @@
 
 ### Fixed
 - ルートに残存していた `Lite概要修正版.srt` の最終削除（v1.2.3 で削除漏れ）
-
