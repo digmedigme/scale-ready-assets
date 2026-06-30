@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "description": "Scale-Ready CRM ブランドアイコン（S モノグラム）定義マニフェスト。実体 PNG は同ディレクトリに手動アップロードすること（バイナリは本マニフェスト更新では追加されない）。出典: Notion Brand Assets DB。",
+  "font": "Plus Jakarta Sans Bold 700",
+  "monogram": "S",
+  "colorTokens": {
+    "background": "primary.teal",
+    "foreground": "neutral.white"
+  },
+  "icons": [
+    {
+      "id": "app-icon",
+      "name": "Scale-Ready CRM App Icon (角丸スクエア)",
+      "type": "favicon",
+      "file": "appicon_brand_v1.0.0_s-monogram.png",
+      "size": "512x512",
+      "shape": "rounded-square",
+      "cornerRadius": "~20%",
+      "transparent": true,
+      "background": "#0F94B4",
+      "foreground": "#FFFFFF",
+      "usage": ["favicon", "STUDIO site icon"]
+    },
+    {
+      "id": "sns-icon",
+      "name": "Scale-Ready CRM SNS Icon (円形)",
+      "type": "social-avatar",
+      "file": "snsicon_brand_v1.0.0_s-monogram.png",
+      "size": "400x400",
+      "shape": "circle",
+      "transparent": false,
+      "background": "#0F94B4",
+      "foreground": "#FFFFFF",
+      "usage": ["note account A", "X profile"]
+    }
+  ]
+}
