@@ -2,6 +2,23 @@
 
 このリポジトリのリリース履歴。Brand Guide §11.4 の Semver に従います。
 
+## [v1.9.2] - 2026-06-30
+
+### Fixed
+- ブランドアイコン PNG を命名規約準拠・正しいパス（`brand/` 直下）へ修正
+  - `brand/icon/square.png` → `brand/appicon_brand_v1.0.0_s-monogram.png`（角丸スクエア / favicon・STUDIO サイトアイコン用, 512x512）
+  - `brand/icon/circle.png` → `brand/snsicon_brand_v1.0.0_s-monogram.png`（円形 / note アカウントA・X プロフィール用, 400x400）
+  - 空になった `brand/icon/` サブフォルダを削除し、`brand/icons.json` のマニフェスト宣言とパス・ファイル名を一致させた
+
+## [v1.9.1] - 2026-06-30
+
+### Added
+- `brand/icons.json` — ブランドアイコン（S モノグラム）定義マニフェスト
+- ブランドアイコン PNG 実体を追加（S モノグラム / 背景 #0F94B4・前景 #FFFFFF, Plus Jakarta Sans Bold）
+  - App Icon（角丸スクエア, 512x512, favicon・STUDIO 用）
+  - SNS Icon（円形, 400x400, note A・X 用）
+  - ※ 初回アップロード時のパス・名称が命名規約と不一致だったため v1.9.2 で修正
+
 ## [v1.4.0] - 2026-06-17
 
 ### Added
