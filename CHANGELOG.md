@@ -19,6 +19,32 @@
   - SNS Icon（円形, 400x400, note A・X 用）
   - ※ 初回アップロード時のパス・名称が命名規約と不一致だったため v1.9.2 で修正
 
+## [v1.9.0] - 2026-06-24
+
+### Added
+- `illustrations/lite/image.svg` — Lite 版イラストを追加（※ ファイル名が命名規約 `{asset-type}_{scope}_{semver}_{descriptor}` 非準拠。要リネーム）
+
+## [v1.8.0] - 2026-06-17
+
+### Added
+- `illustrations/standard/illust_standard_v1.0.0_legal-counsel.svg` — Standard 版イラスト（`undraw_legal-counsel.svg` を §11.1 準拠にリネームして追加）
+
+## [v1.7.0] - 2026-06-17
+
+### Added
+- `illustrations/pro/illust_pro_v1.0.0_data-trends.svg` — Pro 版イラスト（data-trends）
+
+## [v1.6.0] - 2026-06-17
+
+### Added
+- `illustrations/standard/illust_standard_v1.0.0_environmental-study.svg` — Standard 版イラスト（environmental-study）
+- `illustrations/standard/illust_standard_v1.0.0_spreadsheets.svg` — Standard 版イラスト（spreadsheets）
+
+## [v1.5.0] - 2026-06-17
+
+### Added
+- `illustrations/pro/illust_pro_v1.0.0_docs-fullview.png` — Pro 版イラスト（docs-fullview）
+
 ## [v1.4.0] - 2026-06-17
 
 ### Added
