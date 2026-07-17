@@ -2,6 +2,12 @@
 
 このリポジトリのリリース履歴。Brand Guide §11.4 の Semver に従います。
 
+## [v2.2.0] - 2026-07-17
+
+### Added
+- `covers/common/cover_common_v1.0.0_brand.png` — 主要ページ用の共通ブランドカバー画像を追加
+- `screenshots/pro/screenshot_pro_v1.0.0_exec-summary-kpi.png` — Pro版エグゼクティブサマリーのKPI画面ショットを追加
+
 ## [v2.1.0] - 2026-07-17
 
 ### Added
