@@ -2,6 +2,11 @@
 
 このリポジトリのリリース履歴。Brand Guide §11.4 の Semver に従います。
 
+## [v2.2.1] - 2026-07-17
+
+### Changed
+- `screenshots/pro/screenshot_pro_v1.0.0_exec-summary-kpi.png` — 公開Hub向けに明るさ・余白を調整したPro版KPI画面ショットへ差し替え
+
 ## [v2.2.0] - 2026-07-17
 
 ### Added
