@@ -2,6 +2,20 @@
 
 このリポジトリのリリース履歴。Brand Guide §11.4 の Semver に従います。
 
+## [v2.1.0] - 2026-07-17
+
+### Added
+- `illustrations/common/illust_common_v1.0.0_tier-stepup.svg` — 公開用ラインナップHub向けの3ティア移行ステップ図を追加
+- Lite → Standard → Pro → 専用CRMへの成長・移行経路を可視化
+
+## [v2.0.0] - 2026-07-14
+
+### Added
+- `keyvisuals/pro/keyvisual_pro_v1.4.0.png` — Pro版キービジュアルの最新版を追加
+
+### Changed
+- CHANGELOGへv1.5.0〜v1.9.2のリリース履歴を補完
+
 ## [v1.9.2] - 2026-06-30
 
 ### Fixed
