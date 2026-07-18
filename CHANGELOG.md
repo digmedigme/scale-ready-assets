@@ -2,6 +2,13 @@
 
 このリポジトリのリリース履歴。Brand Guide §11.4 の Semver に従います。
 
+## [v2.3.0] - 2026-07-18
+
+### Added
+- `screenshots/lite/screenshot_lite_v1.0.0_home-pipeline.png` — 公開ラインナップHub向けのLite版HOME・商談パイプライン画面を追加
+- `screenshots/standard/screenshot_standard_v1.0.0_home-dashboard.png` — 公開ラインナップHub向けのStandard版HOME・運用ダッシュボード画面を追加
+- `screenshots/pro/screenshot_pro_v1.0.1_exec-summary-kpi.png` — 3ティア共通の淡色フレームへ調整したPro版KPI画面を追加
+
 ## [v2.2.1] - 2026-07-17
 
 ### Changed
