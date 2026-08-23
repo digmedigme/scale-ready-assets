@@ -1,0 +1,55 @@
+{
+  "articleSlug": "ai-ready-crm-data-structure",
+  "version": "1.0.0",
+  "approvedDate": "2026-08-23",
+  "images": [
+    {
+      "path": "og/column/ogimage_column_v1.0.0_ai-ready-crm-data-structure.png",
+      "role": "og",
+      "size": "1200x630",
+      "bytes": 651945,
+      "sha256": "3add5c4342ffc8269896d717115c9b3bc29c00bc80536dcc8342589bf071c119",
+      "alt": "AI Ready CRMとは何かを、会社・人・商談・活動を人間とAIが共通参照する構造で表した図"
+    },
+    {
+      "path": "article-images/column/ai-ready-crm-data-structure/diagram_column_v1.0.0_01-three-layers-five-requirements.webp",
+      "role": "body",
+      "size": "1600x900",
+      "bytes": 104234,
+      "sha256": "7090ca80631e03e42e514813702a3a104c9a840f74ff8f808a35241fb115712d",
+      "alt": "AI Ready CRMを構成する3層と5つの設計要件"
+    },
+    {
+      "path": "article-images/column/ai-ready-crm-data-structure/diagram_column_v1.0.0_02-ai-usage-five-stages.webp",
+      "role": "body",
+      "size": "1600x900",
+      "bytes": 119646,
+      "sha256": "4772f754ff8ed549e2c2521b101d734c77c5e355a4e0d220306d2a0303df8107",
+      "alt": "CRMにおけるAI活用の5段階と人間の役割"
+    },
+    {
+      "path": "article-images/column/ai-ready-crm-data-structure/diagram_column_v1.0.0_03-crm-entities-relationship.webp",
+      "role": "body",
+      "size": "1600x900",
+      "bytes": 99488,
+      "sha256": "209725eed311f0bbe789dca0e9cec2bd39d6f7689d4cbee389d16b9e361f1500",
+      "alt": "CRMを構成する5つの情報とその関係"
+    },
+    {
+      "path": "article-images/column/ai-ready-crm-data-structure/diagram_column_v1.0.0_04-ai-human-review-flow.webp",
+      "role": "body",
+      "size": "1600x900",
+      "bytes": 119440,
+      "sha256": "592bca5d85c54b4a5b2611b5921e515a57adceff7f19c8f08ba749b3a1d13337",
+      "alt": "AIの提案を人間がレビューして確定情報へ反映する流れ"
+    },
+    {
+      "path": "article-images/column/ai-ready-crm-data-structure/diagram_column_v1.0.0_05-crm-growth-four-stages.webp",
+      "role": "body",
+      "size": "1600x900",
+      "bytes": 133942,
+      "sha256": "0a5c170c178508c214ea0fa72f5fb2101666d3915ece09c373a52330cbabcad4",
+      "alt": "ExcelからAI運用基盤へCRMを段階的に育てる4段階"
+    }
+  ]
+}
