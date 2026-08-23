@@ -94,7 +94,7 @@
 ## [v1.3.0] - 2026-06-03
 
 ### Added
-- `keyvisuals/pro/keyvisual_pro_v1.3.0.png` — Pro版キービジュアルをアップロード（プレースホルダーから実アセットへ）
+- `keyvisuals/pro/keyvisual_pro_v1.3.0.png` — Pro 版キービジュアルをアップロード（プレースホルダーから実アセットへ）
 
 ## [v1.2.4] - 2026-05-29
 
