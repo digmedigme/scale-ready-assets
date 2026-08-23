@@ -2,6 +2,13 @@
 
 このリポジトリのリリース履歴。Brand Guide §11.4 の Semver に従います。
 
+## [v2.4.0] - 2026-08-23
+
+### Added
+- `og/column/ogimage_column_v1.0.0_ai-ready-crm-data-structure.png` — 「AI Ready CRMとは何か？中小企業がCRM導入前に整えるべきデータ構造」用のOGP画像（1200×630 PNG）を追加
+- `article-images/column/ai-ready-crm-data-structure/` — 同記事の本文図5枚（1600×900 WebP）を追加
+- `article-images/column/ai-ready-crm-data-structure/manifest.json` — 配信パス、用途、寸法、ファイルサイズ、SHA-256、altテキストを記録したマニフェストを追加
+
 ## [v2.3.0] - 2026-07-18
 
 ### Added
@@ -87,7 +94,7 @@
 ## [v1.3.0] - 2026-06-03
 
 ### Added
-- `keyvisuals/pro/keyvisual_pro_v1.3.0.png` — Pro 版キービジュアルをアップロード（プレースホルダーから実アセットへ）
+- `keyvisuals/pro/keyvisual_pro_v1.3.0.png` — Pro版キービジュアルをアップロード（プレースホルダーから実アセットへ）
 
 ## [v1.2.4] - 2026-05-29
 
